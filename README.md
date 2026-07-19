@@ -47,7 +47,7 @@ Basic-Classification-Model/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/basic-classification-model.git
+git clone https://github.com/arjun2007git/basic-classification-model.git
 ```
 
 Move into the project folder:
